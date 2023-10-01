@@ -38,4 +38,18 @@ Best submission will be judged by students in a poll organized by TA.
 
 SOLUTION
 
-Medium Article Link :
+1. Data Science using ChatGpt : https://chat.openai.com/share/aa4a163f-44da-4945-99b7-84898785fc1c
+
+   Medium Article Link : https://medium.com/@tanujareddy.maligireddy/unleashing-the-potential-of-data-science-through-chat-gpt-converting-queries-into-actionable-65344caa8518
+
+2. Developed a daily journaling application using GPT-Engineer. To run it: i. Clone the repository from: https://github.com/AntonOsika/gpt-engineer
+
+ii. Include a workspace folder and a prompt file in the "projects/example" directory.
+
+iii. Install the necessary packages for GPT-Engineer: Use the command "sudo apt install build-essential libssl-dev libffi-dev python3-dev"
+
+iv. Install GPT-Engineer: Execute "make install"
+
+v. Enter your OpenAI API Key: Set it as an environment variable with "export OPENAI_API_KEY=[your_api_key]"
+
+vi. To start the application: Run "gpt-engineer projects/example"
