@@ -34,3 +34,12 @@ use colab pro a100 setup
 
 use smaller amount of data
 
+Solution:
+
+Using Pytorch: https://colab.research.google.com/drive/1FGxA0ThAXM9Jv4uaAckRl-gY0-iCtJ1b?authuser=1#scrollTo=x9t529IT580a
+
+Using Tensorflow:https://colab.research.google.com/drive/1-l3yZDQ584-xa-LJ3n32VEu8fdhJ7fN9?authuser=1#scrollTo=x9t529IT580a
+
+Using Jax: https://colab.research.google.com/drive/19xx3l3_X7hxcgJ7OFx2jegOKE-qaIe0f?authuser=1#scrollTo=8ciz8pdAg8eo
+
+Textbooks_Are_All_You_Need: https://colab.research.google.com/drive/1PsMks107WDsqaRe0NeGF3WZwp5u5X-jA?authuser=1#scrollTo=Kqun3E4n9yyb
