@@ -46,3 +46,6 @@ Textbooks_Are_All_You_Need: https://colab.research.google.com/drive/1PsMks107WDs
 
 Medium Article: https://medium.com/@tanujareddy.maligireddy/transforming-text-generation-with-nanogpt-a-multi-framework-guide-516741871d3a
 
+Presentation: https://docs.google.com/presentation/d/1JThLEuI8EzEp6uBBH9J568oLrRED5PVp6zvMxukcTHk/edit#slide=id.p
+
+Demo: https://drive.google.com/file/d/1atp4QZvo-Dy7fEVZp_-Wts2YevEcDJ2M/view?usp=drive_link
