@@ -43,3 +43,6 @@ Using Tensorflow:https://colab.research.google.com/drive/1-l3yZDQ584-xa-LJ3n32VE
 Using Jax: https://colab.research.google.com/drive/19xx3l3_X7hxcgJ7OFx2jegOKE-qaIe0f?authuser=1#scrollTo=8ciz8pdAg8eo
 
 Textbooks_Are_All_You_Need: https://colab.research.google.com/drive/1PsMks107WDsqaRe0NeGF3WZwp5u5X-jA?authuser=1#scrollTo=Kqun3E4n9yyb
+
+Medium Article: https://medium.com/@tanujareddy.maligireddy/transforming-text-generation-with-nanogpt-a-multi-framework-guide-516741871d3a
+
