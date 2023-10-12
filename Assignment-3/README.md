@@ -51,6 +51,16 @@ prompt template - full system prompt, role play, input engineering, instruction 
 
 Solution:
 
+COLABS:
+
 Prompt Critique: https://colab.research.google.com/drive/1dzCzPoF_RYCKw-8c3HLrxpp-4JIZEwqe?authuser=1#scrollTo=657LJ43lF492
 
 Prompt_Generation_Chatbot: https://colab.research.google.com/drive/1N-4M27xCbS8uINgStEXIcF04YPakakIh?authuser=1
+
+MEDIUM ARTICLES:
+
+Best Practices for Writing Prompts with ChatGPT:
+https://medium.com/@tanujareddy.maligireddy/best-practices-for-writing-prompts-with-chatgpt-78d1eb278bbe
+
+Prompt Generation for meta prompting:
+https://medium.com/@tanujareddy.maligireddy/prompt-generation-for-meta-prompting-a-deep-dive-15ecbcd20138
