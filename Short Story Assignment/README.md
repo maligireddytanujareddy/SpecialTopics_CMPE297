@@ -6,4 +6,4 @@ Medium Article: https://medium.com/@tanujareddy.maligireddy/transforming-languag
 
 PowerPoint Presentation: https://www.slideshare.net/TanujaReddyMaligired/generative-pretrainingpptx
 
-Video Explanation: 
+Video Explanation: https://drive.google.com/file/d/1ZJ7llFPp8Rtycml4pJZA4mev5d1Oh4gx/view?usp=sharing
